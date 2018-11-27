@@ -36,3 +36,4 @@ TBD
 - Create a devanoobot command that posts the current dollar value of bitcoin (or any other cryptocurrency) to the channel. Maybe taking inspiration from https://devanooga.slack.com/archives/C3X07MGLQ/p1520879455000511 (suggested by @Herr Sauerkraus and @willamin)
 
 - write something that puts all devanooga mastodon stuff into a dedicated slack channel (suggested by @sauerkraus)
+- add slackbot command to add yourself to the #video-games player handle list (suggested by @sauerkraus)
