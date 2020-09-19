@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2020-09-19|2:34PM EDT | Deactivated `James Wang` for unsolicited posting, removed `#opportunity` post | Spammer | StrangeWill
 2020-07-03|8:53AM EST| Deactivated `@bless`for unsolicited messaging.| Most likely bot| ME.
 2020-03-02|4:20pm EST | Removed `#thirdhalfofslack` | `#secondhalfofslack` is good enough, no need to make a joke channel | StrangeWill
 2020-02-24|1:30pm EST | Cleaned up `#opportunities` | Removing non-threaded discussion to prevent pushing opportunities our of "above the fold" in the channel | StrangeWill
