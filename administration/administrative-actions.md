@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2020-12-04|08:19PM EST | Removed image from `#catsdogs` because it showed credit card number | brb3
 2020-09-23|10:35AM EDT | Deactivated `Hideo Minami` (new account)  | No circumventing bans (same Upwork thing as `Alex` from earlier) | StrangeWill 
 2020-09-21|9:57AM EDT | Deactivated `Alex` (new account)  | No circumventing bans | StrangeWill 
 2020-09-21|9:28AM EDT | Deactivated `Alex` for probable Upwork scam -- asking members in DMs to share their account, it's a relatively known scam, user was unclear on why they were banned from Upwork too | No scams | StrangeWill 
