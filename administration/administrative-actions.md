@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+|2021-01-09|11:35PM EST | Removed "F" from chat | Not in any US timezone, name not filled out, probably spam | Anti-spam | StrangeWill
 2020-12-09|07:52PM EST | Removed spam opportunity post in `#devops` from Peter Wood (From UTC+1), also banned Peter Wood | Spamming is against the code of conduct, correction reply to him was ignored | StrangeWill
 2020-12-04|08:19PM EST | Removed image from `#catsdogs` because it showed credit card number | Privacy/content protection | brb3
 2020-09-23|10:35AM EDT | Deactivated `Hideo Minami` (new account)  | No circumventing bans (same Upwork thing as `Alex` from earlier) | StrangeWill 
