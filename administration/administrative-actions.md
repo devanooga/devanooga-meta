@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2021-06-03|01:50AM EDT | Removed "Anya Iverova" anya.iverova@testdouble.com, and a message from the account in `#ruby` | Spamming company blog | brb3
 2021-04-19|11:04AM EDT | Removed `#devanooga_meta` | Joke channel about channel naming inconsistency, leads to confusion | StrangeWill
 2021-03-27|05:02AM EDT | Removed "Brian Migus" brianmingus@magnataur.com | Spammed CloudMoji tool stuff in `#random` | Anti-spam, violation of CoC | StrangeWill 
 2021-01-09|11:35PM EST | Removed "F" from chat | Not in any US timezone, name not filled out, probably spam | Anti-spam | StrangeWill
