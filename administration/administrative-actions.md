@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2022-02-14|11:30PM EDT | Removed `Kyle Wilson ittechmanager0513@outlook.com` | Likely spam, Russian timezone, iffy e-mail | StrangeWill
 2022-02-09|10:47PM EDT | Removed image posted in `#general` by `@ME.` | Offensive image in default channel | brb3
 2022-01-11|08:13AM EDT | Removed "Castro Mbithii" castro.mbithii@gmail.com | Spamming members in their DMs - recruiting platform | ryanmaynard
 2021-12-06|03:10PM EDT | Remove post and subsequent thread in #introductions that was off-topic | Off-topic | ryanmaynard
