@@ -12,6 +12,7 @@ Date|Time|Action|Reason|Administrator
 2021-08-27|03:30PM EDT | Issued warning to `@Decam` regarding passive aggressive comment ("Good for you") in `#personalfinance` | Passive aggressive comments can violate our [offensive language](https://www.devanooga.com/code-of-conduct/#conduct-offensive-language) and [poisitive attitude](https://www.devanooga.com/code-of-conduct/#conduct-positive) rules and cause undue conflict among members, please use sparringly, read the room, and apolgize if communication breakdowns cause conflict | StrangeWill
 2021-07-20|10:30AM EDT | Removed comments from @sam in the #devanooga-meta channel being aggressive toward another user | inappropriate content for `#devanooga-meta` | brb3
 2021-06-03|01:50AM EDT | Removed "Anya Iverova" anya.iverova@testdouble.com, and a message from the account in `#ruby` | Spamming company blog | brb3
+2021-05-26|12:39PM EDT | Removed Salami Haruna & Selina| Probably bot/spam accounts. | ME.
 2021-04-19|11:04AM EDT | Removed `#devanooga_meta` | Joke channel about channel naming inconsistency, leads to confusion | StrangeWill
 2021-03-27|05:02AM EDT | Removed "Brian Migus" brianmingus@magnataur.com | Spammed CloudMoji tool stuff in `#random` | Anti-spam, violation of CoC | StrangeWill 
 2021-01-09|11:35PM EST | Removed "F" from chat | Not in any US timezone, name not filled out, probably spam | Anti-spam | StrangeWill
