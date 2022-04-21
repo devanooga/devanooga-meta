@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2022-04-20|10:09PM EST | Banned "Terry Milam" due to spam | Posting `#opportunity` posts in general, reported doing the same in other slacks. | StrangeWill
 2022-03-28|03:28PM EST | Banned "Odd-Ball" from discord server | During community games, repeatedly talked over new players trying to ask questions, and created an environment that prevented inclusion of new players. Did not improve after multiple warnings. | brb3
 2022-03-02|02:18PM EDT | Removed a shared message in `#nocontext` | Message came from a channel with retention policies | StrangeWill
 2022-02-14|11:30PM EDT | Removed `Kyle Wilson ittechmanager0513@outlook.com` | Likely spam, Russian timezone, iffy e-mail | StrangeWill
