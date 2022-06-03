@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2022-06-03|11:16AM EST | Deactivated "Andrew Gromenko" accounts | Dual accounts, spamming users through DMs | ryanmaynard
 2022-05-17|03:31PM EST | Deactivated "AppXprt" account | After an apology from `ryanmaynard` for a joke he made, `AppXprt` continued to double down on attacks to both him and the community at large | brb3
 2022-04-20|10:09PM EST | Banned "Terry Milam" due to spam | Posting `#opportunity` posts in general, reported doing the same in other slacks. | StrangeWill
 2022-03-28|03:28PM EST | Banned "Odd-Ball" from discord server | During community games, repeatedly talked over new players trying to ask questions, and created an environment that prevented inclusion of new players. Did not improve after multiple warnings. | brb3
