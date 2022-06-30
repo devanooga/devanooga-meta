@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2022-06-29|08:28PM EDT | Removed joke pornhub link in `#general` posted by "Hayden" | OK, yes, fake link but we can't have people opening that at work accidentally | strangewill
 2022-06-03|11:16AM EST | Deactivated "Andrew Gromenko" accounts | Dual accounts, spamming users through DMs | ryanmaynard
 2022-05-17|03:31PM EST | Deactivated "AppXprt" account | After an apology from `ryanmaynard` for a joke he made, `AppXprt` continued to double down on attacks to both him and the community at large | brb3
 2022-04-20|10:09PM EST | Banned "Terry Milam" due to spam | Posting `#opportunity` posts in general, reported doing the same in other slacks. | StrangeWill
