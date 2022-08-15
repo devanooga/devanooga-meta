@@ -35,6 +35,7 @@ TBD
 - Mine cryptocoin in-browser for content creators as an alternative to online advertising (suggested by @bobby_brb3)
 - add a place on the website for @ryanmaynard to post all his playlists (suggested by @sauerkraus)
 - Create a devanoobot command that posts the current dollar value of bitcoin (or any other cryptocurrency) to the channel. Maybe taking inspiration from https://devanooga.slack.com/archives/C3X07MGLQ/p1520879455000511 (suggested by @Herr Sauerkraus and @willamin)
+- A `/whotweeted` command that fetches a tweet from Trump, Elon Musk, or Kanye West and posts it on the channel with a button for each of them. Users can click on a button and devanoobot reveals whether they guessed correctly. (suggested by @agarzola)
 - Write a story using only quotes from #nocontext (suggested by @lordtaco)
 - Add support for _good_ coins to devanoobot (suggested by @bobby_brb3)
 - "can we have slack bot fights?" - seabre (suggested by @sauerkraus)
