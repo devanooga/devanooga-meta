@@ -30,9 +30,10 @@ TBD
 - Find a use for all those domains Ryan Maynard (@ryanmaynard) owns
 	- i.e. nametheninthplanet.com was one. Was going to poll twitter for the hashtag… maybe even joke that its “brought to you by Taco Bell” and suggest Chalupiter - @ryanmaynard
 	- I bought asshat.club with the idea that I would print cars to leave under windshield wipers for shitty parking - @ryanmaynard
+- A devanoobot `/david` command that responds with David’s current username and picture (and maybe CC @strangewill in the response?) (suggested by @agarzola)
 - A service that takes a JSON object and returns an HTML form, possibly as a free service that accepts POST requests with the JSON in the body. (via @strangewill) (suggested by @agarzola)
 - Mine cryptocoin in-browser for content creators as an alternative to online advertising (suggested by @bobby_brb3)
 - add a place on the website for @ryanmaynard to post all his playlists (suggested by @sauerkraus)
 - Create a devanoobot command that posts the current dollar value of bitcoin (or any other cryptocurrency) to the channel. Maybe taking inspiration from https://devanooga.slack.com/archives/C3X07MGLQ/p1520879455000511 (suggested by @Herr Sauerkraus and @willamin)
-
 - a bot for #holywars that starts and stops wars, voting, and pushes results to an api to log them (suggested by @sauerkraus)
+- Write something that puts all devanooga mastodon stuff into a dedicated slack channel (suggested by @sauerkraus)
