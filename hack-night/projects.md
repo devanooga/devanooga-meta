@@ -36,6 +36,7 @@ TBD
 - add a place on the website for @ryanmaynard to post all his playlists (suggested by @sauerkraus)
 - Create a devanoobot command that posts the current dollar value of bitcoin (or any other cryptocurrency) to the channel. Maybe taking inspiration from https://devanooga.slack.com/archives/C3X07MGLQ/p1520879455000511 (suggested by @Herr Sauerkraus and @willamin)
 - write something that puts all devanooga mastodon stuff into a dedicated slack channel (suggested by @sauerkraus)
+- make a bot that takes an image and emoji name and adds it to slack's available emojis (suggested by @willamin)
 - make or find a bot that automatically CrEaTeS a SpOnGeBoB mEmE (suggested by @sauerkraus)
 - add slackbot command to add yourself to the #video-games player handle list (suggested by @sauerkraus)
 - A `/whotweeted` command that fetches a tweet from Trump, Elon Musk, or Kanye West and posts it on the channel with a button for each of them. Users can click on a button and devanoobot reveals whether they guessed correctly. (suggested by @agarzola)
