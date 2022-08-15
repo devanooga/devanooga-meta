@@ -37,3 +37,5 @@ TBD
 - Create a devanoobot command that posts the current dollar value of bitcoin (or any other cryptocurrency) to the channel. Maybe taking inspiration from https://devanooga.slack.com/archives/C3X07MGLQ/p1520879455000511 (suggested by @Herr Sauerkraus and @willamin)
 - a bot for #holywars that starts and stops wars, voting, and pushes results to an api to log them (suggested by @sauerkraus)
 - Write something that puts all devanooga mastodon stuff into a dedicated slack channel (suggested by @sauerkraus)
+- heatmap for devanooga people (suggested by @willamin)
+- Write someth
