@@ -1,6 +1,7 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
-2022-07-27|3:07AM EST | Deactivated "Andrew Gromenko" account | Dual accounts, spamming users through DMs | ME.2022-08-10|08:36PM EDT | Removed HiredByAny for spam in `#opportunities` and deleted message | Spam | StrangeWill
+2022-07-27|3:07AM EST | Deactivated "Andrew Gromenko" account | Dual accounts, spamming users through DMs | ME.
+2022-08-10|08:36PM EDT | Removed HiredByAny for spam in `#opportunities` and deleted message | Spam | StrangeWill
 2022-07-06|11:26PM EDT | Removed "Paul Li" -- International account that "just found us on Google" (didn't elaborate how he found a _Chattanooga_ development group that way when asked), looking for work, dropping LinkedIn account in `#general` (off topic) | Spam | StrangeWill
 2022-06-29|08:28PM EDT | Removed joke pornhub link in `#general` posted by "Hayden" | OK, yes, fake link but we can't have people opening that at work accidentally | StrangeWill
 2022-06-03|11:16AM EST | Deactivated "Andrew Gromenko" accounts | Dual accounts, spamming users through DMs | ryanmaynard
