@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2022-10-31|01:30PM EST | Deactivated "Nicolas Amiano" account | Spam #opportunities account | ME.
 2022-10-25|10:54AM EST | Deactivated "Drew Grom" account | Ban evasion, spam, multiple accounts | brb3
 2022-10-06| 7:09PM EST | Deactivated "John Sedillio" account, deleted posts | Spam account | brb3
 2022-09-27|10:20AM EST | Deactivated "Anou Kham" accounts | Potential spam account. Vast timezone difference. | ME.
