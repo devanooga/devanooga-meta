@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2022-12-12|03:27PM EST | Deactivated "Brandon Do" account at request of member | Duplicate account | ryanmaynard
 2022-10-31|01:30PM EST | Deactivated "Nicolas Amiano" account | Spam #opportunities account | ME.
 2022-10-25|10:54AM EST | Deactivated "Drew Grom" account | Ban evasion, spam, multiple accounts | brb3
 2022-10-06| 7:09PM EST | Deactivated "John Sedillio" account, deleted posts | Spam account | brb3
