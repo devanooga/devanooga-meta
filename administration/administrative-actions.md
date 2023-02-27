@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2023-02-27|11:24AM EDT | Deactivated "Brett Baker" account. Seemed like a potential spam account. | Suspicion of spam / impersionation | brb3
 2023-01-16|10:39PM EDT | Deactivated "Thomas Ken" account due to spamming | Spam account | StrangeWill
 2022-12-12|03:27PM EST | Deactivated "Brandon Do" account at request of member | Duplicate account | ryanmaynard
 2022-10-31|01:30PM EST | Deactivated "Nicolas Amiano" account | Spam #opportunities account | ME.
