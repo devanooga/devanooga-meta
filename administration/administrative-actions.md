@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2023-05-03|10:34AM EDT | Deactivated "Kevin" account. | Suspicion of spam, far away timezone, generic email address | brb3
 2023-04-30|12:40PM EDT | Removed SkillSyncer message in #general. | Suspicion of spam, no response on questions about affiliate link | brb3
 2023-02-27|11:24AM EDT | Deactivated "Brett Baker" account. Seemed like a potential spam account. | Suspicion of spam / impersonation | brb3
 2023-01-16|10:39PM EDT | Deactivated "Thomas Ken" account due to spamming | Spam account | StrangeWill
