@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2023-06-23|06:55AM EST | Deactivated "Dawit" | Alias, used temporary email service | ryanmaynard
 2023-05-31|10:37PM EST | Deactivated "Prathik Shetty" | Suspicion of spam, far away timezone | StrangeWill
 2023-05-03|10:34AM EDT | Deactivated "Kevin" account. | Suspicion of spam, far away timezone, generic email address | brb3
 2023-04-30|12:40PM EDT | Removed SkillSyncer message in #general. | Suspicion of spam, no response on questions about affiliate link | brb3
