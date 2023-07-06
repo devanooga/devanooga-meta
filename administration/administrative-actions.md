@@ -1,6 +1,7 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
-2023-07-05|10:22PM EST | Deactivate "Juan Garza | Has posted nothing but job postings, posted last one in introductions (wrong channel) | Spammer | StrangeWill
+2023-07-06|05:00PM EST | Deactivate "Sue" | Obvious troll account is obvious. Fake email, fake email address, joins and immediately goes to a thread in #opportunities and unloads | brb3
+2023-07-05|10:22PM EST | Deactivate "Juan Garza | Has posted nothing but job postings, posted last one in introductions (wrong channel) / Spammer | StrangeWill
 2023-06-29|04:56AM EST | Deactivate "precious" | Suspicion of spam, far away timezone | StrangeWill
 2023-06-26|12:52AM EST | Deactivated "minionhub.dev" | Nefarious deeds, spam | ryanmaynard
 2023-06-23|07:15AM EST | Deactivated "Connor O'Hearn" | Driveby spammer, MS shill | ryanmaynard
