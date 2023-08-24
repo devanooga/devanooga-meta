@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2023-08-23|11:22PM EST | Deactivate "Chao Hu" | Joins, spams `#opportunities` | StrangeWill
 2023-08-07|01:55PM EST | Deactivate "Berk Serbetcioglu" | Joins, out of timezone, immediately spams `#opportunities` | StrangeWill
 2023-07-06|05:00PM EST | Deactivate "Sue" | Obvious troll account is obvious. Fake email, fake email address, joins and immediately goes to a thread in #opportunities and unloads | brb3
 2023-07-05|10:22PM EST | Deactivate "Juan Garza | Has posted nothing but job postings, posted last one in introductions (wrong channel) / Spammer | StrangeWill
