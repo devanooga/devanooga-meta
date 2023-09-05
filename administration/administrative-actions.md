@@ -1,38 +1,39 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
-2023-08-23|11:22PM EST | Deactivate "Chao Hu" | Joins, spams `#opportunities` | StrangeWill
-2023-08-07|01:55PM EST | Deactivate "Berk Serbetcioglu" | Joins, out of timezone, immediately spams `#opportunities` | StrangeWill
-2023-07-06|05:00PM EST | Deactivate "Sue" | Obvious troll account is obvious. Fake email, fake email address, joins and immediately goes to a thread in #opportunities and unloads | brb3
-2023-07-05|10:22PM EST | Deactivate "Juan Garza | Has posted nothing but job postings, posted last one in introductions (wrong channel) / Spammer | StrangeWill
-2023-06-29|04:56AM EST | Deactivate "precious" | Suspicion of spam, far away timezone | StrangeWill
-2023-06-26|12:52AM EST | Deactivated "minionhub.dev" | Nefarious deeds, spam | ryanmaynard
-2023-06-23|07:15AM EST | Deactivated "Connor O'Hearn" | Driveby spammer, MS shill | ryanmaynard
-2023-06-23|06:55AM EST | Deactivated "Dawit" | Alias, used temporary email service | ryanmaynard
-2023-05-31|10:37PM EST | Deactivated "Prathik Shetty" | Suspicion of spam, far away timezone | StrangeWill
+2023-09-04|02:36PM EDT | Deactivate "Sam" | Spam account, out of timezone | ryanmaynard
+2023-08-23|11:22PM EDT | Deactivate "Chao Hu" | Joins, spams `#opportunities` | StrangeWill
+2023-08-07|01:55PM EDT | Deactivate "Berk Serbetcioglu" | Joins, out of timezone, immediately spams `#opportunities` | StrangeWill
+2023-07-06|05:00PM EDT | Deactivate "Sue" | Obvious troll account is obvious. Fake email, fake email address, joins and immediately goes to a thread in #opportunities and unloads | brb3
+2023-07-05|10:22PM EDT | Deactivate "Juan Garza | Has posted nothing but job postings, posted last one in introductions (wrong channel) / Spammer | StrangeWill
+2023-06-29|04:56AM EDT | Deactivate "precious" | Suspicion of spam, far away timezone | StrangeWill
+2023-06-26|12:52AM EDT | Deactivated "minionhub.dev" | Nefarious deeds, spam | ryanmaynard
+2023-06-23|07:15AM EDT | Deactivated "Connor O'Hearn" | Driveby spammer, MS shill | ryanmaynard
+2023-06-23|06:55AM EDT | Deactivated "Dawit" | Alias, used temporary email service | ryanmaynard
+2023-05-31|10:37PM EDT | Deactivated "Prathik Shetty" | Suspicion of spam, far away timezone | StrangeWill
 2023-05-03|10:34AM EDT | Deactivated "Kevin" account. | Suspicion of spam, far away timezone, generic email address | brb3
 2023-04-30|12:40PM EDT | Removed SkillSyncer message in #general. | Suspicion of spam, no response on questions about affiliate link | brb3
-2023-02-27|11:24AM EDT | Deactivated "Brett Baker" account. Seemed like a potential spam account. | Suspicion of spam / impersonation | brb3
-2023-01-16|10:39PM EDT | Deactivated "Thomas Ken" account due to spamming | Spam account | StrangeWill
+2023-02-27|11:24AM EST | Deactivated "Brett Baker" account. Seemed like a potential spam account. | Suspicion of spam / impersonation | brb3
+2023-01-16|10:39PM EST | Deactivated "Thomas Ken" account due to spamming | Spam account | StrangeWill
 2022-12-12|03:27PM EST | Deactivated "Brandon Do" account at request of member | Duplicate account | ryanmaynard
 2022-11-25|01:55PM EST | Deactivated "Kevin Carter" account | Spam account, sexist comment | ryanmaynard
-2022-10-31|01:30PM EST | Deactivated "Nicolas Amiano" account | Spam #opportunities account | ME.
-2022-10-25|10:54AM EST | Deactivated "Drew Grom" account | Ban evasion, spam, multiple accounts | brb3
-2022-10-06| 7:09PM EST | Deactivated "John Sedillio" account, deleted posts | Spam account | brb3
-2022-09-27|10:20AM EST | Deactivated "Anou Kham" accounts | Potential spam account. Vast timezone difference. | ME.
+2022-10-31|01:30PM EDT | Deactivated "Nicolas Amiano" account | Spam #opportunities account | ME.
+2022-10-25|10:54AM EDT | Deactivated "Drew Grom" account | Ban evasion, spam, multiple accounts | brb3
+2022-10-06| 7:09PM EDT | Deactivated "John Sedillio" account, deleted posts | Spam account | brb3
+2022-09-27|10:20AM EDT | Deactivated "Anou Kham" accounts | Potential spam account. Vast timezone difference. | ME.
 2022-08-10|08:36PM EDT | Removed HiredByAny for spam in `#opportunities` and deleted message | Spam | StrangeWill
-2022-07-27|3:07AM EST | Deactivated "Andrew Gromenko" account | Dual accounts, spamming users through DMs | ME.
+2022-07-27|3:07AM EDT | Deactivated "Andrew Gromenko" account | Dual accounts, spamming users through DMs | ME.
 2022-07-27|3:07AM EDT | Deactivated "Brandon Dexter" account | Drive by spam in #opportunities | ME.
 2022-07-06|11:26PM EDT | Removed "Paul Li" -- International account that "just found us on Google" (didn't elaborate how he found a _Chattanooga_ development group that way when asked), looking for work, dropping LinkedIn account in `#general` (off topic) | Spam | StrangeWill
 2022-06-29|08:28PM EDT | Removed joke pornhub link in `#general` posted by "Hayden" | OK, yes, fake link but we can't have people opening that at work accidentally | StrangeWill
-2022-06-03|11:16AM EST | Deactivated "Andrew Gromenko" accounts | Dual accounts, spamming users through DMs | ryanmaynard
-2022-05-17|03:31PM EST | Deactivated "AppXprt" account | After an apology from `ryanmaynard` for a joke he made, `AppXprt` continued to double down on attacks to both him and the community at large | brb3
-2022-04-20|10:09PM EST | Banned "Terry Milam" due to spam | Posting `#opportunity` posts in general, reported doing the same in other slacks. | StrangeWill
-2022-03-28|03:28PM EST | Banned "Odd-Ball" from discord server | During community games, repeatedly talked over new players trying to ask questions, and created an environment that prevented inclusion of new players. Did not improve after multiple warnings. | brb3
-2022-03-02|02:18PM EDT | Removed a shared message in `#nocontext` | Message came from a channel with retention policies | StrangeWill
-2022-02-14|11:30PM EDT | Removed `Kyle Wilson ittechmanager0513@outlook.com` | Likely spam, Russian timezone, iffy e-mail | StrangeWill
-2022-02-09|10:47PM EDT | Removed image posted in `#general` by `@ME.` | Offensive image in default channel | brb3
-2022-01-11|08:13AM EDT | Removed "Castro Mbithii" castro.mbithii@gmail.com | Spamming members in their DMs - recruiting platform | ryanmaynard
-2021-12-06|03:10PM EDT | Remove post and subsequent thread in #introductions that was off-topic | Off-topic | ryanmaynard
+2022-06-03|11:16AM EDT | Deactivated "Andrew Gromenko" accounts | Dual accounts, spamming users through DMs | ryanmaynard
+2022-05-17|03:31PM EDT | Deactivated "AppXprt" account | After an apology from `ryanmaynard` for a joke he made, `AppXprt` continued to double down on attacks to both him and the community at large | brb3
+2022-04-20|10:09PM EDT | Banned "Terry Milam" due to spam | Posting `#opportunity` posts in general, reported doing the same in other slacks. | StrangeWill
+2022-03-28|03:28PM EDT | Banned "Odd-Ball" from discord server | During community games, repeatedly talked over new players trying to ask questions, and created an environment that prevented inclusion of new players. Did not improve after multiple warnings. | brb3
+2022-03-02|02:18PM EST | Removed a shared message in `#nocontext` | Message came from a channel with retention policies | StrangeWill
+2022-02-14|11:30PM EST | Removed `Kyle Wilson ittechmanager0513@outlook.com` | Likely spam, Russian timezone, iffy e-mail | StrangeWill
+2022-02-09|10:47PM EST | Removed image posted in `#general` by `@ME.` | Offensive image in default channel | brb3
+2022-01-11|08:13AM EST | Removed "Castro Mbithii" castro.mbithii@gmail.com | Spamming members in their DMs - recruiting platform | ryanmaynard
+2021-12-06|03:10PM EST | Remove post and subsequent thread in #introductions that was off-topic | Off-topic | ryanmaynard
 2021-10-26|09:43AM EDT | Remove post in `#general` by `@Gabriella Pfeffer` that violated the CoC | Post was a job listing not in `#opportunities` | brb3
 2021-09-10|07:40PM EDT | Issued warnings to `@Decam`, `@TallKeith`, `Chris Timberlake` on various subject matters, including questionably offensive language used in `#secondhalfofslack`, to keep on-topic and not drag standard `#politics` stuff into other channels. | Multiple rule violations, a warning about continued stricter enforcement regarding offensive language | StrangeWill
 2021-08-27|03:30PM EDT | Issued warning to `@brb3` regarding handling of `@Decam`'s comment | Staff is to be held to a higher standard of handling these issues, normally the response would be fine for a normal member being upset with the comment, but staff should deescalate and moderate | StrangeWill
