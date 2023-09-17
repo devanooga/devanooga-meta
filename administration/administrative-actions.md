@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2023-09-16|10:38AM EDT | Deactivate "Nisar Hassan Naqvi" | Likely spam account, out of timezone | ME.
 2023-09-04|02:36PM EDT | Deactivate "Sam" | Spam account, out of timezone | ryanmaynard
 2023-08-23|11:22PM EDT | Deactivate "Chao Hu" | Joins, spams `#opportunities` | StrangeWill
 2023-08-07|01:55PM EDT | Deactivate "Berk Serbetcioglu" | Joins, out of timezone, immediately spams `#opportunities` | StrangeWill
