@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2023-10-18|16:29PM EDT | Deactivated "David" | Spam account | ryanmaynard
 2023-10-17|08:28PM EDT | Deactivated "joseph bauer" | Reported for Spam after joining across multiple channels the same copy/paste message | StrangeWill
 2023-10-04|12:04PM EDT | Deactivated "Simon" | Spam account | brb3
 2023-09-16|10:38AM EDT | Deactivate "Nisar Hassan Naqvi" | Likely spam account, out of timezone | ME.
