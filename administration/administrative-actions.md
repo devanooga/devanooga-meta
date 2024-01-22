@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2024-01-22|02:14PM ET | Deactivated "Shravan Kumar" | Way out of time zone | StrangeWill
 2023-11-26|12:05PM EST | Deactivated "Seekers of Trusted US Citizens..."| Reported for spam after joining slack and spamming main channels | ryanmaynard
 2023-10-17|08:28PM EDT | Deactivated "joseph bauer" | Reported for Spam after joining across multiple channels the same copy/paste message | StrangeWill
 2023-10-04|12:04PM EDT | Deactivated "Simon" | Spam account | brb3
