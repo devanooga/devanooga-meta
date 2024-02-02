@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2024-02-02|12:37PM EST | Removed post in #general from @Dan DeFelippi | Politics bait post. Admins asked to move it to #politics and the request was refused | brb3
 2024-01-30|02:38PM EST | Deactivated "Xernan Peralta" | Driveby spam for volunteer survey | ryanmaynard
 2024-01-22|02:14PM EST | Deactivated "Shravan Kumar" | Way out of time zone | StrangeWill
 2023-11-26|12:05PM EST | Deactivated "Seekers of Trusted US Citizens..."| Reported for spam after joining slack and spamming main channels | ryanmaynard
