@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2024-02-07|12:35PM EST | Deactivated "Arkady Tkhorov" | Suspicious time zone/spammy email | ryanmaynard
 2024-02-07|09:20AM EST | Deactivated "Roger Bybee" | Driveby spam | ryanmaynard
 2024-02-04|03:00PM EST | Removed post in #random from @Dan DeFelippi | Sexually inappropriate post. | ME.
 2024-02-02|12:37PM EST | Removed post in #general from @Dan DeFelippi | Politics bait post. Admins asked to move it to #politics and the request was refused | brb3
