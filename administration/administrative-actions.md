@@ -1,6 +1,7 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
-2024-02-04|3:00PM EST | Removed post in #random from @Dan DeFelippi | Sexually inappropriate post. | ME.
+2024-02-07|09:20AM EST | Deactivated "Roger Bybee" | Driveby spam | ryanmaynard
+2024-02-04|03:00PM EST | Removed post in #random from @Dan DeFelippi | Sexually inappropriate post. | ME.
 2024-02-02|12:37PM EST | Removed post in #general from @Dan DeFelippi | Politics bait post. Admins asked to move it to #politics and the request was refused | brb3
 2024-01-30|02:38PM EST | Deactivated "Xernan Peralta" | Driveby spam for volunteer survey | ryanmaynard
 2024-01-22|02:14PM EST | Deactivated "Shravan Kumar" | Way out of time zone | StrangeWill
