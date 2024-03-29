@@ -8,6 +8,7 @@ Date|Time|Action|Reason|Administrator
 2024-01-30|02:38PM EST | Deactivated "Xernan Peralta" | Driveby spam for volunteer survey | ryanmaynard
 2024-01-22|02:14PM EST | Deactivated "Shravan Kumar" | Way out of time zone | StrangeWill
 2023-11-26|12:05PM EST | Deactivated "Seekers of Trusted US Citizens..."| Reported for spam after joining slack and spamming main channels | ryanmaynard
+2023-11-06|02:28PM EST | Deactivated "Nicolas Sammiritano" | Agency spam account | ryanmaynard
 2023-10-18|16:29PM EDT | Deactivated "David" | Spam account | ryanmaynard
 2023-10-17|08:28PM EDT | Deactivated "joseph bauer" | Reported for Spam after joining across multiple channels the same copy/paste message | StrangeWill
 2023-10-04|12:04PM EDT | Deactivated "Simon" | Spam account | brb3
@@ -31,7 +32,7 @@ Date|Time|Action|Reason|Administrator
 2022-11-25|01:55PM EST | Deactivated "Kevin Carter" account | Spam account, sexist comment | ryanmaynard
 2022-10-31|01:30PM EDT | Deactivated "Nicolas Amiano" account | Spam #opportunities account | ME.
 2022-10-25|10:54AM EDT | Deactivated "Drew Grom" account | Ban evasion, spam, multiple accounts | brb3
-2022-10-06| 7:09PM EDT | Deactivated "John Sedillio" account, deleted posts | Spam account | brb3
+2022-10-06|07:09PM EDT | Deactivated "John Sedillio" account, deleted posts | Spam account | brb3
 2022-09-27|10:20AM EDT | Deactivated "Anou Kham" accounts | Potential spam account. Vast timezone difference. | ME.
 2022-08-10|08:36PM EDT | Removed HiredByAny for spam in `#opportunities` and deleted message | Spam | StrangeWill
 2022-07-27|3:07AM EDT | Deactivated "Andrew Gromenko" account | Dual accounts, spamming users through DMs | ME.
