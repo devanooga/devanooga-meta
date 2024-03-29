@@ -1,8 +1,18 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2024-03-24|02:02PM EDT | Remove post in #random from @Isabella Solano | spam, CoC violation | brb3
+2024-02-07|12:35PM EST | Deactivated "Arkady Tkhorov" | Suspicious time zone/spammy email | ryanmaynard
+2024-02-07|09:20AM EST | Deactivated "Roger Bybee" | Driveby spam | ryanmaynard
+2024-02-04|03:00PM EST | Removed post in #random from @Dan DeFelippi | Sexually inappropriate post. | ME.
+2024-02-02|12:37PM EST | Removed post in #general from @Dan DeFelippi | Politics bait post. Admins asked to move it to #politics and the request was refused | brb3
+2024-01-30|02:38PM EST | Deactivated "Xernan Peralta" | Driveby spam for volunteer survey | ryanmaynard
+2024-01-22|02:14PM EST | Deactivated "Shravan Kumar" | Way out of time zone | StrangeWill
+2023-11-26|12:05PM EST | Deactivated "Seekers of Trusted US Citizens..."| Reported for spam after joining slack and spamming main channels | ryanmaynard
 2023-11-06|02:28PM EST | Deactivated "Nicolas Sammiritano" | Agency spam account | ryanmaynard
+2023-10-18|16:29PM EDT | Deactivated "David" | Spam account | ryanmaynard
 2023-10-17|08:28PM EDT | Deactivated "joseph bauer" | Reported for Spam after joining across multiple channels the same copy/paste message | StrangeWill
 2023-10-04|12:04PM EDT | Deactivated "Simon" | Spam account | brb3
+2023-09-26|08:23PM EDT | Remove link in #neat | Original message deleted by author | brb3
 2023-09-16|10:38AM EDT | Deactivate "Nisar Hassan Naqvi" | Likely spam account, out of timezone | ME.
 2023-09-04|02:36PM EDT | Deactivate "Sam" | Spam account, out of timezone | ryanmaynard
 2023-08-23|11:22PM EDT | Deactivate "Chao Hu" | Joins, spams `#opportunities` | StrangeWill
