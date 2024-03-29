@@ -10,6 +10,7 @@ Date|Time|Action|Reason|Administrator
 2023-11-26|12:05PM EST | Deactivated "Seekers of Trusted US Citizens..."| Reported for spam after joining slack and spamming main channels | ryanmaynard
 2023-10-17|08:28PM EDT | Deactivated "joseph bauer" | Reported for Spam after joining across multiple channels the same copy/paste message | StrangeWill
 2023-10-04|12:04PM EDT | Deactivated "Simon" | Spam account | brb3
+2023-09-26|08:23PM EDT | Remove link in #neat | Original message deleted by author | brb3
 2023-09-16|10:38AM EDT | Deactivate "Nisar Hassan Naqvi" | Likely spam account, out of timezone | ME.
 2023-09-04|02:36PM EDT | Deactivate "Sam" | Spam account, out of timezone | ryanmaynard
 2023-08-23|11:22PM EDT | Deactivate "Chao Hu" | Joins, spams `#opportunities` | StrangeWill
