@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2024-04-27|08:00PM EDT | Removed post from @Gregg in #introductions listing job opportunities | mischannel | brb3
 2024-04-18|06:00PM EDT | Remove posts and deactivated account of "Adrian Lin" | spammer, offshore dev agency | brb3
 2024-04-09|09:22AM EDT | Remove post in #opportunities and ban @Steven | driveby spammer | ryanmaynard
 2024-03-24|02:02PM EDT | Remove post in #random from @Isabella Solano | spam, CoC violation | brb3
