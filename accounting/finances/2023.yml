@@ -1,0 +1,21 @@
+year: 2023
+balance:
+  starting: 1131.36
+  ending: 1121.67
+income:
+  transactions:
+    - date: 2023-01-13
+      amount: 23.59
+    - date: 2023-02-15
+      amount: 23.59
+    - date: 2023-03-15
+      amount: 23.59
+expenses:
+    transactions:
+      - date: 2023-04-19
+        vendor: Tennessee Secretary Of State
+        amount: 20.46
+      - date: 2023-07-05
+        vendor: Tennessee Tree Toppers
+        amount: 60
+        comment: Donation for Field Day usage of the field

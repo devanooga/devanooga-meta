@@ -1,0 +1,11 @@
+year: 2024
+balance:
+  starting: 1121.67
+expenses:
+    transactions:
+      - date: 2024-05-28
+        vendor: Xenforo
+        amount: 195.00
+      - date: 2024-06-04
+        vendor: Tennessee Secretary Of State
+        amount: 20.46
