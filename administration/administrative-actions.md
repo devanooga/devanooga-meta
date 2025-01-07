@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2025-01-01|01:15PM EDT | Removed post by Mario Ezra in `#food` | Bruh | strangewill
 2024-12-16|02:51PM EST | Removed post by D.White in #random | politics bait | brb3
 2024-11-13|10:34AM EST | Reactivated "Andrey Khmelnitskiy" account | a misunderstanding led to us making a goof. | brb3
 2024-11-13|09:16AM EST | Deactivated "Andrey Khmelnitskiy" account | offshore dev spam | ryanmaynard
