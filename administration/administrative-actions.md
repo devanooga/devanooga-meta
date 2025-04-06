@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2025-04-06|02:39PM EDT | Deleted thread and posts in `#random` by Dave M and JBills | Politics outside of #politics | brb3
 2025-02-28|08:12AM EDT | Deleted politics post in `#random` by JBills | Politics outside of #politics | brb3
 2025-01-30|11:16AM EDT | Issued channel ban for ace in `#politics` and removed post | Borderline threatening language | brb3
 2025-01-19|01:17PM EDT | Removed post by JBills in `#random` | Politics talk outside of #politics after mod warning in channel | brb3
