@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2025-05-05|07:23AM EDT | Deactivated "sr.dev" account | Spam | brb3
 2025-04-06|02:39PM EDT | Deleted thread and posts in `#random` by Dave M and JBills | Politics outside of #politics | brb3
 2025-02-28|08:12AM EDT | Deleted politics post in `#random` by JBills | Politics outside of #politics | brb3
 2025-01-30|11:16AM EDT | Issued channel ban for ace in `#politics` and removed post | Borderline threatening language | brb3
