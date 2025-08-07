@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2025-07-07|05:01PM EDT | Deactivated user "Ayk" | Suspected spam | ryanmaynard
 2025-06-18|07:48PM EDT | Deleted picture of poop by Sam in `#politics` | Politics is a turd but it wasn't even relevant | StrangeWill
 2025-05-05|07:23AM EDT | Deactivated "sr.dev" account | Spam | brb3
 2025-04-06|02:39PM EDT | Deleted thread and posts in `#random` by Dave M and JBills | Politics outside of #politics | brb3
