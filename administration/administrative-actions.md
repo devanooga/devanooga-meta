@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2025-10-31|09:22AM EDT | Removed post in #general in slack and on forum | spam for gambling | ryanmaynard
 2025-10-08|11:42AM EDT | Removed post in `#business` | advocating for violence | brb3
 2025-08-17|09:41PM EDT | Reactivated "Jeremy Davis" account after going over rules with him | | StrangeWill
 2025-08-16|10:10AM EDT | Deactivated "Jeremy Davis" account. Removed post | First post was spam | brb3
