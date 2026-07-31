@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2026-07-31|11:44AM EST | Removed post from Andrey Khmelnitskiy in `#introductions` | Advertising services in a thread about a member joining to learn "sometimes it would be easier to outsource a project" -- last warning | strangewill
 2026-05-12|06:55PM EST | Removed event post in #introductions | wrong channel | brb3
 2025-10-31|09:22AM EDT | Removed post in #general in slack and on forum | spam for gambling | ryanmaynard
 2025-10-08|11:42AM EDT | Removed post in `#business` | advocating for violence | brb3
